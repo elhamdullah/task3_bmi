@@ -1,16 +1,15 @@
 # task3_bmi
 
-A new Flutter project.
+it's aflutter app to calculate the BMI(body mass)
 
-## Getting Started
+## how to use
 
-This project is a starting point for a Flutter application.
+start your first journey to calculate the body mass for yourself you should put your body info to know your body health
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [https://github.com/elhamdullah/task3_bmi] download project
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
